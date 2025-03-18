@@ -1,0 +1,8 @@
+MANIFEST
+quickfix2.egg-info/
+build/
+.vscode/
+*.o
+__pycache__/
+dist/
+quickfix.egg-info/
